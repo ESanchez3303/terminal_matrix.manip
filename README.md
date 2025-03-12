@@ -5,3 +5,5 @@ Simple terminal program to add, sub, mult. two matrixes. Mainly is fun to see ho
 Very satisfying. 
 
 Also, it does only do operations to valid inputs of matrixes.
+
+LOOK AT PHOTOS!
