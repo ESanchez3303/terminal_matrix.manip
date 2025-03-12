@@ -7,3 +7,5 @@ Very satisfying.
 Also, it does only do operations to valid inputs of matrixes.
 
 LOOK AT PHOTOS!
+
+This was a class assingment with DION BOBINO
